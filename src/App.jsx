@@ -130,12 +130,11 @@ function App() {
             <br />
             I know : htmlCss javaScript tailwind react and
             <br />
-            typescript. and i’ve been learn new Course in life and in work!
+            typescript. and i’ve been learning new Course in life and in work!
             <br />
-             i like musik and paint --wait! i love idea making and my hobies has
-            routate of draw and open mind 
+             i like musik and paint --wait! i love making an idea and my hobies contain : draw and mind games 
             <br />
-             trust me and come in my world.
+             trust me and trust your self.
             <br />
             GoodLuck...
           </div>
